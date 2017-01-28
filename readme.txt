@@ -1,4 +1,4 @@
-readmetext
+readme2text
 .
 hunger
 
